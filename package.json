@@ -1,0 +1,12 @@
+{
+  "name": "arc",
+  "private": true,
+  "scripts": {
+    "preinstall": "node scripts/check-pnpm.js"
+  },
+  "engines": {
+    "node": ">=24",
+    "pnpm": ">=10.33.0"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
